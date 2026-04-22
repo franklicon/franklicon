@@ -67,8 +67,8 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
   <a href="https://github.com/franklicon/CreatingTaskFromScratch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=CreatingTaskFromScratch&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/franklicon/SimpleGoalList">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=SimpleGoalList&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/franklicon/ConsoleAgent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=ConsoleAgent&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
