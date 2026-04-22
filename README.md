@@ -55,11 +55,11 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
 
 ## Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,mysql,postgres,js,ts,react,git,github,postman,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,visualstudio,rider,mysql,postgres,js,ts,react,git,github,postman,vscode&perline=8)](https://skillicons.dev)
 
 ## Currently Exploring
 
-[![Learning](https://skillicons.dev/icons?i=githubactions,redis,rabbitmq,linux,bash&perline=7)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=githubactions,redis,rabbitmq&perline=7)](https://skillicons.dev)
 
 ## Featured Repositories
 
@@ -81,21 +81,11 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
   </a>
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=franklicon&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklicon&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Connect with Me
 
 <div>
   <a href="https://www.linkedin.com/in/franciscolicon/">
     <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Licon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/franklicon">
-    <img src="https://img.shields.io/badge/GitHub-franklicon-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
