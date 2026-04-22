@@ -1,30 +1,41 @@
-# Hi, I'm Francisco Licon
+# Hi, I'm Francisco 👋
 
-Software Engineer with 5+ years of experience building secure, scalable backend systems with **C#**, **.NET**, and **Azure**. I specialize in high-performance APIs, microservices, cloud architecture, and modern engineering practices including **Clean Architecture**, **CI/CD**, **automated testing**, and **Kubernetes**.
+Software Engineer with 5+ years of experience building secure, scalable backend systems with **C#**, **.NET**, and **Azure**.
 
-I’ve contributed to enterprise systems at **Deloitte** and **Honeywell**, helping improve reliability, performance, deployment speed, and code quality across .NET services. My work includes **Azure API Management**, **AKS**, **authentication/authorization**, **SQL optimization**, **Cosmos DB**, and **test automation**.
+I specialize in high-performance APIs, microservices, cloud architecture, Clean Architecture, CI/CD, automated testing, and Kubernetes.
 
-My GitHub is where I share projects, technical explorations, and hands-on work around backend engineering, software design, and cloud-native development.
+## About Me
+
+~~~json
+{
+  "role": "Software Engineer",
+  "focus": ["Backend Engineering", "Cloud Architecture", "Scalable APIs"],
+  "stack": ["C#", ".NET", "Azure", "SQL Server", "Cosmos DB", "Docker", "Kubernetes"],
+  "experience": ["Deloitte", "Honeywell"]
+}
+~~~
 
 ## Tech Stack
-**Backend:** C#, .NET, ASP.NET Core  
-**Cloud & DevOps:** Azure, AKS, Docker, Kubernetes, CI/CD  
-**Architecture:** Microservices, Clean Architecture, REST APIs  
-**Data:** SQL Server, Cosmos DB  
-**Quality:** Automated Testing, API Testing, Performance Optimization
 
-## What you'll find here
-- Backend engineering projects with C# and .NET
-- API design and architecture work
-- Design pattern implementations
-- Algorithms and data structures practice
-- Technical experiments to better understand .NET internals
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,postgres,mysql,js,ts,react,git,github,postman,vscode&perline=7" />
+</p>
 
-## Featured Work
-- **CreatingTaskFromScratch**
-- **SimpleGoalList**
-- **DesignPatterns**
-- **AlgorithmsAndDataStructures**
+## Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/franklicon/CreatingTaskFromScratch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=CreatingTaskFromScratch&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/franklicon/SimpleGoalList">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=SimpleGoalList&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/franciscolicon)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/franciscolicon/">
+    <img src="https://img.shields.io/badge/LinkedIn-Francisco%20Licon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
