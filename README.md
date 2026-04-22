@@ -63,21 +63,23 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
 
 ## Featured Repositories
 
+## Featured Repositories
+
 <p align="center">
-  <a href="https://github.com/franklicon/CreatingTaskFromScratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=CreatingTaskFromScratch&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/franklicon/algorithms-and-data-structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=algorithms-and-data-structures&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/franklicon/ConsoleAgent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=ConsoleAgent&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/franklicon/custom-task-from-scratch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=custom-task-from-scratch&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/franklicon/DesignPatterns">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=DesignPatterns&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/franklicon/console-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=console-agent&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/franklicon/AlgorithmsAndDataStructures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=AlgorithmsAndDataStructures&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/franklicon/design-patterns">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=design-patterns&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
