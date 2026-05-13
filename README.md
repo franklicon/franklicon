@@ -64,8 +64,8 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
 ## Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/franklicon/algorithms-and-data-structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=algorithms-and-data-structures&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/franklicon/algorithms-data-structures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=algorithms-data-structures&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/franklicon/custom-task-from-scratch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=custom-task-from-scratch&theme=tokyonight&hide_border=true" />
