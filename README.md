@@ -65,21 +65,23 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
 
 ## Featured Repositories
 
+## Featured Repositories
+
 <p align="center">
   <a href="https://github.com/franklicon/algorithms-and-data-structures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=algorithms-and-data-structures&theme=tokyonight&hide_border=true" alt="Algorithms and Data Structures" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=algorithms-and-data-structures&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/franklicon/custom-task-from-scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=custom-task-from-scratch&theme=tokyonight&hide_border=true" alt="Custom Task from Scratch" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=custom-task-from-scratch&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/franklicon/console-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=console-agent&theme=tokyonight&hide_border=true" alt="Console Agent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=console-agent&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/franklicon/design-patterns">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=design-patterns&theme=tokyonight&hide_border=true" alt="Design Patterns" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=franklicon&repo=design-patterns&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
