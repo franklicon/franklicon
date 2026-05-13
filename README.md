@@ -63,17 +63,64 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
 
 ## Featured Repositories
 
-### [algorithms-data-structures](https://github.com/franklicon/algorithms-data-structures) 
-`C#` `.NET` `DSA`
-
-### [custom-task-from-scratch](https://github.com/franklicon/custom-task-from-scratch)
-`C#` `Async` `Concurrency`
-
-### [console-agent](https://github.com/franklicon/console-agent) 
-`.NET` `CLI` `Automation`
-
-### [design-patterns](https://github.com/franklicon/design-patterns) 
-`C#` `OOP` `Patterns`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/franklicon/algorithms-data-structures">algorithms-data-structures</a>
+      </h3>
+      <p align="center">
+        C# implementations of algorithms and data structures for stronger CS fundamentals.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/franklicon/custom-task-from-scratch">custom-task-from-scratch</a>
+      </h3>
+      <p align="center">
+        A from-scratch Task-style implementation to explore async workflows, threading, and concurrency internals.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Async-4F81C7?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Concurrency-1F6FEB?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/franklicon/console-agent">console-agent</a>
+      </h3>
+      <p align="center">
+        A console-based agent project focused on backend experimentation, automation, and developer tooling.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-F97316?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/franklicon/design-patterns">design-patterns</a>
+      </h3>
+      <p align="center">
+        Practical C# examples of classic design patterns with a focus on clean, maintainable implementations.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-9333EA?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Patterns-2563EB?style=for-the-badge" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Connect with Me
 
