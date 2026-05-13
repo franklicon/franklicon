@@ -63,20 +63,16 @@ My GitHub is where I share projects, technical explorations, and hands-on work a
 
 ## Featured Repositories
 
-### [algorithms-data-structures](https://github.com/franklicon/algorithms-data-structures)
-C# implementations of algorithms and data structures for practice, interviews, and stronger CS foundations.  
-`C#` `/.NET` `DSA`
+### [algorithms-data-structures](https://github.com/franklicon/algorithms-data-structures) 
+`C#` `.NET` `DSA`
 
 ### [custom-task-from-scratch](https://github.com/franklicon/custom-task-from-scratch)
-A from-scratch Task-style implementation to explore async behavior, threading, and internals.  
 `C#` `Async` `Concurrency`
 
-### [console-agent](https://github.com/franklicon/console-agent)
-A console-based agent project for experimentation, automation, and backend tooling ideas.  
+### [console-agent](https://github.com/franklicon/console-agent) 
 `.NET` `CLI` `Automation`
 
-### [design-patterns](https://github.com/franklicon/design-patterns)
-Practical C# examples of common design patterns with clean, easy-to-follow implementations.  
+### [design-patterns](https://github.com/franklicon/design-patterns) 
 `C#` `OOP` `Patterns`
 
 ## Connect with Me
