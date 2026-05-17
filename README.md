@@ -109,7 +109,7 @@ This GitHub is where I share projects, technical explorations, and hands-on work
         <a href="https://github.com/franklicon/custom-task-from-scratch">custom-task-from-scratch</a>
       </h3>
       <p align="center">
-        A from-scratch Task-style implementation built to explore async workflows, concurrency, and the internals behind modern C# execution models.
+        A from-scratch Task implementation built to explore async workflows, concurrency, and the internals behind modern C# execution models.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
