@@ -91,7 +91,7 @@ This GitHub is where I share projects, technical explorations, and hands-on work
         <a href="https://github.com/franklicon/algorithms-data-structures">algorithms-data-structures</a>
       </h3>
       <p align="center">
-        C# implementations of algorithms and data structures for stronger CS fundamentals, cleaner problem-solving, and interview preparation.
+        C# implementations of algorithms and data structures for stronger CS fundamentals.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
